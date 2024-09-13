@@ -347,10 +347,11 @@ section {
   right: 0;
   left: 0;
   height: 200px;
+  margin-bottom: -72px;
 }
 
 .header .logo img {
-  max-height: 160px;
+  max-height: 180px;
   margin-right: 6px;
 }
 
